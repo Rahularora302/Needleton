@@ -4,23 +4,23 @@ Needleton is a fashion page on Instagram with a growing community of 3.2k follow
 
 Features
 
-Browse through a curated collection of fashion products and accessories.
+*Browse through a curated collection of fashion products and accessories.
 
-Seamlessly search for specific items using our advanced search functionality.
+*Seamlessly search for specific items using our advanced search functionality.
 
-Add desired products to your cart and proceed to secure checkout with integrated payment gateways.
+*Add desired products to your cart and proceed to secure checkout with integrated payment gateways.
 
-Stay updated with the latest fashion trends through our engaging blog section.
+*Stay updated with the latest fashion trends through our engaging blog section.
 
-Contact us directly via the integrated enquiry form for any queries or feedback.
+*Contact us directly via the integrated enquiry form for any queries or feedback.
 
 Technologies Used
 
-Frontend: SCSS, JavaScript, React.js
+Frontend: SCSS, JavaScript, React.js.
 Backend: Employed Strapi as a backend CMS to manage photos and descriptions on the web pages.
-Database: Firebase (Firestore)
-Authentication: Google OAuth
-Payment Gateway: Stripe
+Database: Firebase (Firestore).
+Authentication: Google OAuth.
+Payment Gateway: Stripe.
 
 
 We welcome contributions to enhance the Needleton platform. If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
